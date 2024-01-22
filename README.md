@@ -9,8 +9,6 @@ This repository contains a Jupyter notebook that demonstrates how to build and c
 - Hyperparameter tuning and optimization
 - Model interpretation and explanation
 
-The data used in this project is from [this source](https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset). It contains information about 614 loan applicants and whether they were approved or not.
-
 The models used in this project are:
 - Random Forest
 - XGBoost
